@@ -3,8 +3,8 @@
 
 int main(void)
 {
-	printf("깔끔하게 만들어봤어요\n");
-	printf("혼자해보자 fighting!\n");
+	printf("준영이가 지켜보고 있어요\n");
+	printf("ㅇ여윽시 형님 fighting!\n");
 
 	
 
