@@ -3,8 +3,8 @@
 
 int main(void)
 {
-	printf("헬로,니하오,봉주르\n");
-	printf("헬루,니하오,봉주르\n\n\n\n\n");
+	printf("이건 내가 2번째 시도해보는 파일\n");
+	printf("성공시켜보자\n");
 	return 0;
 }
 
