@@ -3,10 +3,11 @@
 
 int main(void)
 {
-	printf("이건 내가 4번째 시도해보는 파일\n");
+	printf("깔끔하게 만들어봤어요\n");
 	printf("혼자해보자 fighting!\n");
-	printf("나는 여기");
-	printf("나도 여기를 수정해볼게요");
+
+	
+
 	return 0;
 }
 
