@@ -4,7 +4,7 @@
 int main(void)
 {
 
-	printf("내가 짱이야\n");
+	printf("내가 짱이야!!!!\n");
 
 
 	
